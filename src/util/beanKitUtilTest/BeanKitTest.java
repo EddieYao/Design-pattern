@@ -1,8 +1,5 @@
 package util.beanKitUtilTest;
 
-import sun.applet.Main;
-import util.BeanKit;
-
 public class BeanKitTest {
 
     public static void main(String[] args) {

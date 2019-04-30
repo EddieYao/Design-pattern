@@ -1,4 +1,4 @@
-package util;
+package util.beanKitUtilTest;
 
 import java.beans.BeanInfo;
 import java.beans.Introspector;
