@@ -26,4 +26,5 @@ public class User {
         this.test = test;
     }
     private String ooo;
+    private String ooo2221111;
 }
