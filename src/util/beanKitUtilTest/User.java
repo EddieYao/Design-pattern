@@ -24,4 +24,5 @@ public class User {
     public void setTest(String test) {
         this.test = test;
     }
+    private String ooo;
 }
