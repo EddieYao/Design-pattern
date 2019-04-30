@@ -5,7 +5,7 @@ public class User {
         this.id = id;
         this.test = test;
     }
-    //
+//
     private String id;
     private String test;
     private String set;
@@ -25,4 +25,5 @@ public class User {
     public void setTest(String test) {
         this.test = test;
     }
+    private String ooo;
 }
