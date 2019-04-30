@@ -26,5 +26,6 @@ public class User {
         this.test = test;
     }
     private String ooo;
-    private String ooo2221111;
+    private String ooo222;
+    private String ooo222333221222;
 }
