@@ -9,11 +9,11 @@ public class User {
     private String id;
     private String test;
 
-    public String getId() {
+    public String getId(String id) {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId() {
         this.id = id;
     }
 
