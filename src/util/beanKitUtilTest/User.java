@@ -26,4 +26,5 @@ public class User {
     }
     private String ooo;
     private String ooo222;
+    private String ooo22233322;
 }
